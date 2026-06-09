@@ -1,0 +1,5 @@
+# server configuration
+SERVER_NAME=titan-server
+PORT=8080
+ENVIRONMENT=production
+MAX_CONNECTIONS=100

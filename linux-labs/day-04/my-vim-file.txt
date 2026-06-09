@@ -1,0 +1,3 @@
+#!/bin/bash
+# My first vim file
+echo "vim is powerful"

@@ -1,0 +1,6 @@
+INFO: server started successfully
+INFO: user avinash logged in
+ERROR: Database connection failed
+INFO: Retrying connection...
+ERROR: Timeout after 30 seconds
+INFO: server shutting down
